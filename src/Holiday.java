@@ -9,24 +9,24 @@ public class Holiday {
         Holidays();
     }
 
-    public void Holidays() {
-        date.add("01/01/2023");
+    private void Holidays() {
+        date.add("1/1/2023");
         name.add("Confraternização mundial");
-        date.add("21/02/2023");
+        date.add("21/2/2023");
         name.add("Carnaval");
-        date.add("17/04/2023");
+        date.add("17/4/2023");
         name.add("Páscoa");
-        date.add("21/04/2023");
+        date.add("21/4/2023");
         name.add("Tiradentes");
-        date.add("01/05/2023");
+        date.add("1/5/2023");
         name.add("Dia do trabalho");
-        date.add("08/06/2023");
+        date.add("8/6/2023");
         name.add("Corpus Christi");
-        date.add("07/09/2023");
+        date.add("7/9/2023");
         name.add("Independência do Brasil");
         date.add("12/10/2023");
         name.add("Nossa Senhora Aparecida");
-        date.add("02/11/2023");
+        date.add("2/11/2023");
         name.add("Finados");
         date.add("15/11/2023");
         name.add("Proclamação da República");
